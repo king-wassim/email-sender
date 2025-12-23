@@ -1,9 +1,9 @@
 {
   "smtp_server": "smtp-relay.brevo.com",
   "smtp_port": 587,
-  "sender_email": "wassim.chwaya5@gmail.com",
+  "sender_email": Your email@gmail.com",
   "sender_name": "Wassim Chouayakh",
-  "login": "969703001@smtp-brevo.com",
-  "password": "nxPO9Dmg8UsphSjT",
+  "login": "************",
+  "password": "**********",
   "subject": "Candidature pour un stage en informatique"
 }
